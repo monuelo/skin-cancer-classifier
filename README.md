@@ -1,5 +1,5 @@
 # Skin Cancer Classifier
-Skin cancer classification demo with Federated Learning
+Melanoma skin cancer classification demo by using Federated Learning techniques
 
 
 ## About
